@@ -18,7 +18,7 @@ This repository contains practical implementations of error detection and error 
 - **Compiler:** GCC
 - **IDE:** Visual Studio Code
 
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Clone the Repository
 
